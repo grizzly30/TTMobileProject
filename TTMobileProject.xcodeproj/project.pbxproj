@@ -7,23 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0462221426C9691C0017A410 /* SymbolTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462221326C9691C0017A410 /* SymbolTableViewCell.swift */; };
+		0462221726C9848D0017A410 /* SymbolDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462221626C9848D0017A410 /* SymbolDetailViewController.swift */; };
+		0462221E26C99BF70017A410 /* NewsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462221D26C99BF70017A410 /* NewsListViewController.swift */; };
+		0462222126C9A0370017A410 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462222026C9A0370017A410 /* NewsTableViewCell.swift */; };
+		0462222426C9A4250017A410 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462222326C9A4250017A410 /* News.swift */; };
+		0462222826C9B7210017A410 /* NewsDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462222726C9B7210017A410 /* NewsDetailsViewController.swift */; };
+		0462222B26C9C7810017A410 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0462222A26C9C7810017A410 /* TabBarController.swift */; };
+		04C1229E26C87CCB00EC7CC9 /* Symbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C1229D26C87CCB00EC7CC9 /* Symbol.swift */; };
 		04ECB42926C6E4B100CD2DBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ECB42826C6E4B100CD2DBB /* AppDelegate.swift */; };
 		04ECB42B26C6E4B100CD2DBB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ECB42A26C6E4B100CD2DBB /* SceneDelegate.swift */; };
-		04ECB42D26C6E4B100CD2DBB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ECB42C26C6E4B100CD2DBB /* ViewController.swift */; };
+		04ECB42D26C6E4B100CD2DBB /* SymbolListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ECB42C26C6E4B100CD2DBB /* SymbolListViewController.swift */; };
 		04ECB43026C6E4B100CD2DBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04ECB42E26C6E4B100CD2DBB /* Main.storyboard */; };
 		04ECB43226C6E4B200CD2DBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04ECB43126C6E4B200CD2DBB /* Assets.xcassets */; };
 		04ECB43526C6E4B200CD2DBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04ECB43326C6E4B200CD2DBB /* LaunchScreen.storyboard */; };
+		04ECB43E26C72BB500CD2DBB /* Mihailo Jovanovic 2021.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 04ECB43D26C72BB500CD2DBB /* Mihailo Jovanovic 2021.pdf */; };
+		04ECB44526C72CE600CD2DBB /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ECB44426C72CE600CD2DBB /* InfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0462221326C9691C0017A410 /* SymbolTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolTableViewCell.swift; sourceTree = "<group>"; };
+		0462221626C9848D0017A410 /* SymbolDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolDetailViewController.swift; sourceTree = "<group>"; };
+		0462221D26C99BF70017A410 /* NewsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListViewController.swift; sourceTree = "<group>"; };
+		0462222026C9A0370017A410 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		0462222326C9A4250017A410 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		0462222726C9B7210017A410 /* NewsDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailsViewController.swift; sourceTree = "<group>"; };
+		0462222A26C9C7810017A410 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		04C1229D26C87CCB00EC7CC9 /* Symbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbol.swift; sourceTree = "<group>"; };
 		04ECB42526C6E4B100CD2DBB /* TTMobileProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TTMobileProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04ECB42826C6E4B100CD2DBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04ECB42A26C6E4B100CD2DBB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		04ECB42C26C6E4B100CD2DBB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		04ECB42C26C6E4B100CD2DBB /* SymbolListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolListViewController.swift; sourceTree = "<group>"; };
 		04ECB42F26C6E4B100CD2DBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04ECB43126C6E4B200CD2DBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04ECB43426C6E4B200CD2DBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04ECB43626C6E4B200CD2DBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04ECB43D26C72BB500CD2DBB /* Mihailo Jovanovic 2021.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Mihailo Jovanovic 2021.pdf"; sourceTree = "<group>"; };
+		04ECB44426C72CE600CD2DBB /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +57,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0462222D26CA4EF80017A410 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				04C1229D26C87CCB00EC7CC9 /* Symbol.swift */,
+				0462222326C9A4250017A410 /* News.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0462222F26CA4F3F0017A410 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				04ECB42C26C6E4B100CD2DBB /* SymbolListViewController.swift */,
+				04ECB44426C72CE600CD2DBB /* InfoViewController.swift */,
+				0462221326C9691C0017A410 /* SymbolTableViewCell.swift */,
+				0462221626C9848D0017A410 /* SymbolDetailViewController.swift */,
+				0462221D26C99BF70017A410 /* NewsListViewController.swift */,
+				0462222026C9A0370017A410 /* NewsTableViewCell.swift */,
+				0462222726C9B7210017A410 /* NewsDetailsViewController.swift */,
+				0462222A26C9C7810017A410 /* TabBarController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		0462223126CA4F9D0017A410 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04ECB42E26C6E4B100CD2DBB /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		04ECB41C26C6E4B100CD2DBB = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +108,15 @@
 		04ECB42726C6E4B100CD2DBB /* TTMobileProject */ = {
 			isa = PBXGroup;
 			children = (
+				0462223126CA4F9D0017A410 /* View */,
+				0462222F26CA4F3F0017A410 /* ViewController */,
+				0462222D26CA4EF80017A410 /* Model */,
 				04ECB42826C6E4B100CD2DBB /* AppDelegate.swift */,
 				04ECB42A26C6E4B100CD2DBB /* SceneDelegate.swift */,
-				04ECB42C26C6E4B100CD2DBB /* ViewController.swift */,
-				04ECB42E26C6E4B100CD2DBB /* Main.storyboard */,
 				04ECB43126C6E4B200CD2DBB /* Assets.xcassets */,
 				04ECB43326C6E4B200CD2DBB /* LaunchScreen.storyboard */,
 				04ECB43626C6E4B200CD2DBB /* Info.plist */,
+				04ECB43D26C72BB500CD2DBB /* Mihailo Jovanovic 2021.pdf */,
 			);
 			path = TTMobileProject;
 			sourceTree = "<group>";
@@ -125,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04ECB43526C6E4B200CD2DBB /* LaunchScreen.storyboard in Resources */,
+				04ECB43E26C72BB500CD2DBB /* Mihailo Jovanovic 2021.pdf in Resources */,
 				04ECB43226C6E4B200CD2DBB /* Assets.xcassets in Resources */,
 				04ECB43026C6E4B100CD2DBB /* Main.storyboard in Resources */,
 			);
@@ -137,9 +192,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04ECB42D26C6E4B100CD2DBB /* ViewController.swift in Sources */,
+				04ECB42D26C6E4B100CD2DBB /* SymbolListViewController.swift in Sources */,
+				04C1229E26C87CCB00EC7CC9 /* Symbol.swift in Sources */,
 				04ECB42926C6E4B100CD2DBB /* AppDelegate.swift in Sources */,
+				0462221426C9691C0017A410 /* SymbolTableViewCell.swift in Sources */,
+				0462221726C9848D0017A410 /* SymbolDetailViewController.swift in Sources */,
+				04ECB44526C72CE600CD2DBB /* InfoViewController.swift in Sources */,
 				04ECB42B26C6E4B100CD2DBB /* SceneDelegate.swift in Sources */,
+				0462222826C9B7210017A410 /* NewsDetailsViewController.swift in Sources */,
+				0462221E26C99BF70017A410 /* NewsListViewController.swift in Sources */,
+				0462222B26C9C7810017A410 /* TabBarController.swift in Sources */,
+				0462222426C9A4250017A410 /* News.swift in Sources */,
+				0462222126C9A0370017A410 /* NewsTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
