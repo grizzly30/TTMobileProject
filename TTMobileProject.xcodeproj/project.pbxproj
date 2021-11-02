@@ -26,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		041BDC162730186700852D1C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0462221326C9691C0017A410 /* SymbolTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolTableViewCell.swift; sourceTree = "<group>"; };
 		0462221626C9848D0017A410 /* SymbolDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolDetailViewController.swift; sourceTree = "<group>"; };
 		0462221D26C99BF70017A410 /* NewsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListViewController.swift; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 		04ECB41C26C6E4B100CD2DBB = {
 			isa = PBXGroup;
 			children = (
+				041BDC162730186700852D1C /* README.md */,
 				04ECB42726C6E4B100CD2DBB /* TTMobileProject */,
 				04ECB42626C6E4B100CD2DBB /* Products */,
 			);

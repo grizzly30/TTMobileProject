@@ -18,6 +18,7 @@ class InfoViewController: UIViewController {
 
         pdfView = PDFView(frame: self.view.bounds)
         self.view.addSubview(pdfView!)
+        
             
         pdfView?.autoScales = true
         pdfView?.displayMode = .singlePage
